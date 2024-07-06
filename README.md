@@ -1,5 +1,6 @@
 # AFM-IR-ratiomap-v2
 * This Mathematica script is to plot the ratio map of AFM-IR amplitude collected at different wavenumbers, which is not available in NanoScope software.
+<img src="https://github.com/JasonL1422/AFM-IR-ratiomap-v2/blob/main/example.png" width="1200"/> </a>
 * Difference from version 1 is:
   1. The input files are .txt files (not .csv). 
    - Each .txt file consists of number of values in one column.
@@ -14,4 +15,4 @@
 
 * Sample data and images are not allowed to be used public without permission.
 
-<img src="https://github.com/JasonL1422/AFM-IR-ratiomap-v2/blob/main/example.png" width="1200"/> </a>
+
