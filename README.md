@@ -14,5 +14,6 @@
   3. There are number of inputs that you need to manually type in. Explanations are in (*text*)
 
 * Sample data and images are not allowed to be used public without permission.
+* v2.1 explanation added. 2024.07.04
 
 
