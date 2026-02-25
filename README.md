@@ -1,6 +1,8 @@
 # AFM-IR-ratiomap-v2
 * This Mathematica code is to plot ratio maps of the AFM-IR amplitude maps collected at different wavenumbers, which is not available in NanoScope software. [Contact: jongcheol1422@gmail.com]
-  
+
+* This has been used in a research paper published in _Planta_: [Lee et al. 2026 Microfibril orientation and compositional heterogeneity in fiber and vessel cell walls of poplar xylem studied by AFM-IR and SFG spectroscopy](https://link.springer.com/article/10.1007/s00425-026-04947-7) (doi/10.1007/s00425-026-04947-7)
+
 <img src="https://github.com/JasonL1422/AFM-IR-ratiomap-v2/blob/main/v2.1_uploaded/v2.1_example22.png" width="1200"/> </a>
 
 * Difference from version 1 is:
